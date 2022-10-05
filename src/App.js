@@ -4,15 +4,20 @@ import Botton from './components/Botton';
 import Screen from './components/Screen';
 import BottonClear from './components/BottonClear';
 import { useState } from 'react';
+//import { evaluate } from 'mathjs'; //npm install mathjs 
 
 
 function App() {
 
-  const [input, setInput] = useState('Hola');
+  const [input, setInput] = useState('');
 
   const agregarInput = val => {
     setInput(input + val)
   };
+
+/*   const calcularResultado = () => {
+    setInput(evaluate(input));
+  }; */
 
   return (
     <div className="App">
@@ -32,34 +37,34 @@ function App() {
         <Screen input={input} />
 
         <div className='fila'>
-          <Botton>7</Botton>
-          <Botton>8</Botton>
-          <Botton>9</Botton>
-          <Botton>+</Botton>
+          <Botton manejarClick={agregarInput}>7</Botton>
+          <Botton manejarClick={agregarInput}>8</Botton>
+          <Botton manejarClick={agregarInput}>9</Botton>
+          <Botton manejarClick={agregarInput}>+</Botton>
         </div>
 
         <div className='fila'>
-          <Botton>4</Botton>
-          <Botton>5</Botton>
-          <Botton>6</Botton>
-          <Botton>-</Botton>
+          <Botton manejarClick={agregarInput}>4</Botton>
+          <Botton manejarClick={agregarInput}>5</Botton>
+          <Botton manejarClick={agregarInput}>6</Botton>
+          <Botton manejarClick={agregarInput}>-</Botton>
         </div>
 
         <div className='fila'>
-          <Botton>1</Botton>
-          <Botton>2</Botton>
-          <Botton>3</Botton>
-          <Botton>*</Botton>
+          <Botton manejarClick={agregarInput}>1</Botton>
+          <Botton manejarClick={agregarInput}>2</Botton>
+          <Botton manejarClick={agregarInput}>3</Botton>
+          <Botton manejarClick={agregarInput}>*</Botton>
         </div>
 
         <div className='fila'>
-          <Botton>0</Botton>
-          <Botton>.</Botton>
-          <Botton>=</Botton>
-          <Botton>/</Botton>
+          <Botton manejarClick={agregarInput}>0</Botton>
+          <Botton manejarClick={agregarInput}>.</Botton>
+          <Botton manejarClick={calcularResultado}>=</Botton>
+          <Botton manejarClick={agregarInput}>/</Botton>
         </div>
 
-        <BottonClear />
+        <BottonClear manejarClear={() => setInput('')} />
 
       </div>
         
