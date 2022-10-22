@@ -4,7 +4,7 @@ import Botton from './components/Botton';
 import Screen from './components/Screen';
 import BottonClear from './components/BottonClear';
 import { useState } from 'react';
-//import { evaluate } from 'mathjs'; //npm install mathjs 
+import { evaluate } from 'mathjs'; 
 
 
 function App() {
@@ -15,9 +15,9 @@ function App() {
     setInput(input + val)
   };
 
-/*   const calcularResultado = () => {
+  const calcularResultado = () => {
     setInput(evaluate(input));
-  }; */
+  };
 
   return (
     <div className="App">
