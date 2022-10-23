@@ -1,7 +1,7 @@
 
 <h1 align="center">📱Calculadora - Glassmorphism </h1>
 
-<p align="center"> Calculadora con diseño glassmorphism, puede realizar todas las operaciones aritmeticas basicas. [Demo](https://calculadora-glassmorphism.netlify.app/) </p> 
+<p align="center"> Calculadora con diseño glassmorphism, puede realizar todas las operaciones aritmeticas basicas. </p> 
 
 
 
@@ -10,6 +10,7 @@
 
 * [React](https://create-react-app.dev/) - El framework web usado
 * [NPM](https://www.npmjs.com/) - Manejador de dependencias
+* [Demo](https://calculadora-glassmorphism.netlify.app/)
 
 ## 🧑‍💻 Instalacion 
 
