@@ -2,7 +2,8 @@
 <h1 align="center">📱Calculadora - Glassmorphism </h1>
 
 <p align="center"> Calculadora con diseño glassmorphism, puede realizar todas las operaciones aritmeticas basicas. </p>
-_[Demo](https://calculadora-glassmorphism.netlify.app/)_ 
+
+[Demo](https://calculadora-glassmorphism.netlify.app/)
 
 
 
