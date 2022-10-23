@@ -2,9 +2,7 @@
 
 Calculadora con diseño glassmorphism, puede realizar todas las operaciones aritmeticas basicas. _[Demo](https://calculadora-glassmorphism.netlify.app/)_
 
-<img align="center" width="200" src="https://giphy.com/embed/jjGlviHeu2gDSdDewb"/>
-<img align="center" width="200" src="https://giphy.com/gifs/jjGlviHeu2gDSdDewb"/>
-![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
+![Calculadora](https://user-images.githubusercontent.com/92656447/197369677-1474767d-5da1-4f4b-b16e-64c908acba2a.png)
 
 
 ## 🛠️ Construido 
