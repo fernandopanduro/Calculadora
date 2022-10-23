@@ -1,14 +1,14 @@
 # 📱Calculadora - Glassmorphism
 
-Calculadora con diseño glassmorphism. Realiza todas las operaciones aritmeticas basicas. _[Demo](https://calculadora-glassmorphism.netlify.app/)_
+Calculadora con diseño glassmorphism, puede realizar todas las operaciones aritmeticas basicas. _[Demo](https://calculadora-glassmorphism.netlify.app/)_
 
 
-## Construido con 🛠️
+## 🛠️ Construido 
 
 * [React](https://create-react-app.dev/) - El framework web usado
 * [NPM](https://www.npmjs.com/) - Manejador de dependencias
 
-## Instalacion 🧑‍💻
+## 🧑‍💻 Instalacion 
 
 ### Paso 1: Clonar el repositorio
 
@@ -35,17 +35,17 @@ npm start
 Después de ejecutar el servidor de desarrollo, el sitio debería ejecutarse en https://localhost:3000
 
 
-## Wiki 📖
+## 📖 Wiki 
 
 Puedes encontrar muchos más proyectos en mi [github](https://github.com/fernandopanduro)
 
 
-## Autor ✒️
+## ✒️ Autor 
 
 * **Fernando Panduro** - *Desarrollador principal* - [fernandopanduro](https://github.com/fernandopanduro)
 
 
-## Expresiones de Gratitud 🎁
+## 🎁 Expresiones de Gratitud 
 
 * Comenta a otros sobre este proyecto 📢
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
