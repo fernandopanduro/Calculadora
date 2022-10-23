@@ -8,11 +8,11 @@ Calculadora con diseño glassmorphism. Realiza todas las operaciones aritmeticas
 * [React](https://create-react-app.dev/) - El framework web usado
 * [NPM](https://www.npmjs.com/) - Manejador de dependencias
 
-## Instalar 🧑‍💻
+## Instalacion 🧑‍💻
 
 ### Paso 1: Clonar el repositorio
 
-Bifurcar el repositorio. luego clone el repositorio localmente haciendo 
+Bifurcar el repositorio. luego clone el repositorio localmente haciendo:
 
 ```bash
 git clone https://github.com/fernandopanduro/Calculadora.git
@@ -20,7 +20,7 @@ git clone https://github.com/fernandopanduro/Calculadora.git
 
 ### Paso 2: Instalar las dependencias
 
-Instala todas las dependencias
+Instala todas las dependencias:
 
 ```bash
 npm install
@@ -28,7 +28,7 @@ npm install
 
 ### Paso 3: Iniciar servidor de desarrollo
 
-Luego inicie el servidor de desarrollo
+Luego inicie el servidor de desarrollo:
 ```
 npm start
 ```
