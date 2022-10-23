@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/92656447/197395279-b2cca806-3f14-4f2f-
 
 * [React](https://create-react-app.dev/) - El framework web usado
 * [NPM](https://www.npmjs.com/) - Manejador de dependencias
-* [Demo](https://calculadoraglassmorphism.netlify.app/) - Ultima version funcional
+* [Demo](https://calculadora-glassmorphism.netlify.app/) - Ultima version funcional
 
 ## 🧑‍💻 Instalacion 
 
