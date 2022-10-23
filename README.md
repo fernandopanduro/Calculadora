@@ -1,6 +1,8 @@
-# Glassmorphism - Calculadora
+# 📱Calculadora - Glassmorphism
 
 Calculadora con diseño glassmorphism. Realiza todas las operaciones aritmeticas basicas.
+
+_Proyecto terminado en [Netlify](https://calculadora-glassmorphism.netlify.app/)_
 
 
 ## Construido con 🛠️
@@ -11,12 +13,12 @@ Calculadora con diseño glassmorphism. Realiza todas las operaciones aritmeticas
 
 ## Wiki 📖
 
-Puedes encontrar muchos más proyectos en [github](https://github.com/fernandopanduro)
+Puedes encontrar muchos más proyectos en mi [github](https://github.com/fernandopanduro)
 
 
 ## Autor ✒️
 
-* **Fernando Panduro** - *Trabajo Inicial* - [fernandpha](https://github.com/fernandopanduro)
+* **Fernando Panduro** - *Trabajo Inicial* - [fernandopanduro](https://github.com/fernandopanduro)
 
 
 ## Expresiones de Gratitud 🎁
@@ -29,6 +31,6 @@ Puedes encontrar muchos más proyectos en [github](https://github.com/fernandopa
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+⌨️ con ❤️ por [Fernando](https://github.com/fernandopanduro) 👑
 
 
