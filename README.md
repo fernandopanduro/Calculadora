@@ -2,13 +2,39 @@
 
 Calculadora con diseño glassmorphism. Realiza todas las operaciones aritmeticas basicas.
 
-_Proyecto terminado en [Netlify](https://calculadora-glassmorphism.netlify.app/)_
+_[Demo](https://calculadora-glassmorphism.netlify.app/)_
 
 
 ## Construido con 🛠️
 
 * [React](https://create-react-app.dev/) - El framework web usado
 * [NPM](https://www.npmjs.com/) - Manejador de dependencias
+
+**Desarrollo Local**
+
+### Paso 1: Clonar el repositorio
+
+Bifurcar el repositorio. luego clone el repositorio localmente haciendo 
+
+```bash
+git clone https://github.com/anuraghazra/facebook-reaction-animation.git
+```
+
+### Paso 2: Instalar las dependencias
+
+Instala todas las dependencias
+
+```bash
+npm install
+```
+
+### Paso 3: Iniciar servidor de desarrollo
+
+Luego inicie el servidor de desarrollo
+```
+npm start
+```
+Después de ejecutar el servidor de desarrollo, el sitio debería ejecutarse en https://localhost:3000
 
 
 ## Wiki 📖
