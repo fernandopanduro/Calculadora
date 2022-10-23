@@ -1,10 +1,8 @@
+<div>
 # 📱Calculadora - Glassmorphism
 
 Calculadora con diseño glassmorphism, puede realizar todas las operaciones aritmeticas basicas. _[Demo](https://calculadora-glassmorphism.netlify.app/)_
-
-![Calculadora](https://user-images.githubusercontent.com/92656447/197369677-1474767d-5da1-4f4b-b16e-64c908acba2a.png)
-
-
+</div>
 https://user-images.githubusercontent.com/92656447/197369734-cccac400-64b5-4ee9-a2f0-d95085a8f8eb.mp4
 
 
