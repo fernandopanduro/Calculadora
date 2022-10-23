@@ -4,6 +4,8 @@ Calculadora con diseño glassmorphism, puede realizar todas las operaciones arit
 
 <img align="center" width="200" src="https://giphy.com/embed/jjGlviHeu2gDSdDewb"/>
 <img align="center" width="200" src="https://giphy.com/gifs/jjGlviHeu2gDSdDewb"/>
+![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
+
 
 ## 🛠️ Construido 
 
