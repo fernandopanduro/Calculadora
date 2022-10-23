@@ -15,7 +15,7 @@ Calculadora con diseño glassmorphism. Realiza todas las operaciones aritmeticas
 Bifurcar el repositorio. luego clone el repositorio localmente haciendo 
 
 ```bash
-git clone https://github.com/anuraghazra/facebook-reaction-animation.git
+git clone https://github.com/fernandopanduro/Calculadora.git
 ```
 
 ### Paso 2: Instalar las dependencias
@@ -42,16 +42,15 @@ Puedes encontrar muchos más proyectos en mi [github](https://github.com/fernand
 
 ## Autor ✒️
 
-* **Fernando Panduro** - *Trabajo Inicial* - [fernandopanduro](https://github.com/fernandopanduro)
+* **Fernando Panduro** - *Desarrollador principal* - [fernandopanduro](https://github.com/fernandopanduro)
 
 
 ## Expresiones de Gratitud 🎁
 
 * Comenta a otros sobre este proyecto 📢
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
+* Se agradece su atencion 🤓.
 * Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
 
 
 ---
